@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="left">📒 Notes & Resources For QA Automatation</h3>
 <ul>
    <li><a href="cmfz37nf3000002l5a1w7gw8v.md">Manaul</a></li>    
-   <li><a href="./hashnodeBlogs/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
+   <li><a href="https://github.com/sandhyarani143005/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
    <li><a href="">SQL</a></li>
    <li><a href="./01_QA_NOTES/java.md">Java</a></li>
    <li><a href="./01_QA_NOTES/maven.md">Maven</a></li>
