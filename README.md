@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <h3 align="left">📒 Notes & Resources For QA Automatation</h3>
 <ul>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ib0qs000c02l8afvvfti9.md">git and github</a></li>
-   <li><a href="">Manaul</a></li>    
-   <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
-   <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
-   <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0jc4jb000102jy12wubasi.md">Selenium With Java</a></li>
-    <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0n7m9m000002l5diqwdq0y.md">TestNG</a></li>
-    <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0cso2r000002l5ad4m00ez.md">API Status Code</a></li>
+     <li><a href="">Manaul</a></li>    
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0jc4jb000102jy12wubasi.md">Selenium With Java</a></li>
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0n7m9m000002l5diqwdq0y.md">TestNG</a></li>
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0o5ppv000502kz2udj9qdn.md">Maven</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ee8cd000002lcc8a9d26w.md">Xpath</a></li>
-  <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0o5ppv000502kz2udj9qdn.md">Maven</a></li>
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0cso2r000002l5ad4m00ez.md">API Status Code</a></li>
     
    
 <!--  
