@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="left">Hi 👋, I'm Sandhya Rani Singh</h1>
+<h1 align="left">Hi 👋, I'm Nini</h1>
 <h3 align="left">A passionate software engineer from India</h3>
 
 <h3 align="left">📒 Notes & Resources For QA Automatation</h3>
