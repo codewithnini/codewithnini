@@ -27,6 +27,7 @@ Here are some ideas to get you started:
    <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0cso2r000002l5ad4m00ez.md">API Status Code</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ee8cd000002lcc8a9d26w.md">Xpath</a></li>
+    <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ib0qs000c02l8afvvfti9.md">git and github</a></li>
 <!--   <li><a href="./01_QA_NOTES/maven.md">Maven</a></li>
   <li><a href="">SQL</a></li>
    <li><a href="./01_QA_NOTES/selinium.md">Selenium With Java</a></li>
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
    <li><a href="">TestNG</a></li>
    <li><a href="">API</a></li>
    <li><a href="">Restassured</a></li>
-   <li><a href="./01_QA_NOTES/github.md">git and github</a></li>
+  
    <li><a href="">jenkins</a></li>
    <li><a href="./01_QA_NOTES/javaCoding.md">Java Coding QA</a></li>
   
