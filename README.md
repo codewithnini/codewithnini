@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**sandhyarani143005/sandhyarani143005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codewithnini/codewithnini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">📒 Notes & Resources For QA Automatation</h3>
 <ul>
-   <li><a href="cmfz37nf3000002l5a1w7gw8v.md">Manaul</a></li>    
+   <li><a href="">Manaul</a></li>    
    <li><a href="https://github.com/sandhyarani143005/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
-   <li><a href="">SQL</a></li>
    <li><a href="https://github.com/sandhyarani143005/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
-   <li><a href="./01_QA_NOTES/maven.md">Maven</a></li>
+<!--   <li><a href="./01_QA_NOTES/maven.md">Maven</a></li>
+  <li><a href="">SQL</a></li>
    <li><a href="./01_QA_NOTES/selinium.md">Selenium With Java</a></li>
    <li><a href="">Appium</a></li>
    <li><a href="">TestNG</a></li>
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
    <li><a href="">DOM, BOM, AJAX</a></li>
    <li><a href="">Most Asked Interview QA </a></li>
     <li><a href="./01_QA_NOTES/summery.md">All Notes in summery</a></li>  
+    -->
+   
 </ul>
 
 
