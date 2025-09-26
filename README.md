@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **codewithnini/codewithnini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,12 +14,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
 
 <h1 align="left">Hi 👋, I'm Nini</h1>
 <h3 align="left">A passionate software engineer from India</h3>
+-->
+
+
+# Hi there 👋, I'm Nini
+
+![Profile GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
+
+💻 **Software Engineer | QA Automation Enthusiast**  
+🌏 Based in **India**  
+🛠️ Passionate about coding, testing, and building reliable software  
+
+---
 
 <h3 align="left">📒 Notes & Resources For QA Automatation</h3>
 <ul>
@@ -51,5 +61,45 @@ Here are some ideas to get you started:
     -->
    
 </ul>
+
+---
+
+## ✨ Fun Facts
+- ☕ Coffee-fueled debugging sessions  
+- 🎯 Always aiming for 100% test coverage  
+- 📚 Lifelong learner – exploring new tools & technologies  
+
+---
+
+## 🚀 Skills & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-0088CC?style=for-the-badge&logo=TestNG&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-0052CC?style=for-the-badge&logo=rest-assured&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Nini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nini&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nini&layout=compact&theme=radical)
+
+---
+
+## 🌐 Visitors
+![Visitor Count](https://profile-counter.glitch.me/nini/count.svg)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nini-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nini)  
+[![GitHub](https://img.shields.io/badge/GitHub-Nini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nini)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Nini-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nini.dev)
+
+
+
 
 
