@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <h3 align="left">📒 Notes & Resources For QA Automatation</h3>
 <ul>
    <li><a href="">Manaul</a></li>    
-   <li><a href="https://github.com/sandhyarani143005/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
-   <li><a href="https://github.com/sandhyarani143005/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
+   <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
+   <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
 <!--   <li><a href="./01_QA_NOTES/maven.md">Maven</a></li>
   <li><a href="">SQL</a></li>
    <li><a href="./01_QA_NOTES/selinium.md">Selenium With Java</a></li>
