@@ -26,6 +26,7 @@ Here are some ideas to get you started:
    <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
    <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0cso2r000002l5ad4m00ez.md">API Status Code</a></li>
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ee8cd000002lcc8a9d26w.md">Xpath</a></li>
 <!--   <li><a href="./01_QA_NOTES/maven.md">Maven</a></li>
   <li><a href="">SQL</a></li>
    <li><a href="./01_QA_NOTES/selinium.md">Selenium With Java</a></li>
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
    <li><a href="">jenkins</a></li>
    <li><a href="./01_QA_NOTES/javaCoding.md">Java Coding QA</a></li>
   
-   <li><a href="./01_QA_NOTES/xpath.md">Xpath</a></li>
+ 
    <li><a href="">DOM, BOM, AJAX</a></li>
    <li><a href="">Most Asked Interview QA </a></li>
     <li><a href="./01_QA_NOTES/summery.md">All Notes in summery</a></li>  
