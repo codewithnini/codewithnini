@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-
 <h3 align="left">📒 Notes & Resources For QA Automatation</h3>
 <ul>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ib0qs000c02l8afvvfti9.md">git and github</a></li>
@@ -61,7 +60,6 @@ Here are some ideas to get you started:
     -->
    
 </ul>
-
 ---
 
 ## ✨ Fun Facts
