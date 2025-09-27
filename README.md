@@ -60,14 +60,13 @@ Here are some ideas to get you started:
     -->
    
 </ul>
----
+
 
 ## ✨ Fun Facts
 - ☕ Coffee-fueled debugging sessions  
 - 🎯 Always aiming for 100% test coverage  
 - 📚 Lifelong learner – exploring new tools & technologies  
 
----
 
 ## 🚀 Skills & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
