@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 💻 **Software Engineer | QA Automation Enthusiast**  
 🌏 Based in **India**  
 🛠️ Passionate about coding, testing, and building reliable software  
-
-![Profile GIF](https://github.com/codewithnini/Assets/blob/main/NiniGif.gif)  
+<!--
+![Profile GIF](https://github.com/codewithnini/Assets/blob/main/NiniGif.gif) 
+-->
 
 ---
 
