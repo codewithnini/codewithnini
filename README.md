@@ -40,7 +40,7 @@ Here are some ideas to get you started:
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0jc4jb000102jy12wubasi.md">Selenium With Java</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0n7m9m000002l5diqwdq0y.md">TestNG</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0o5ppv000502kz2udj9qdn.md">Maven</a></li>
-     <li><a href="">jenkins</a></li>
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg4rgkde000s02k35r2ghuwe.md">jenkins</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ee8cd000002lcc8a9d26w.md">Xpath</a></li>
      <li><a href="">DOM, BOM, AJAX</a></li>
      <li><a href="">SQL</a></li>
