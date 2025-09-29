@@ -36,31 +36,23 @@ Here are some ideas to get you started:
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg4n3xlm000102l7hthihfvx.md">Java Complex Topic</a></li>
+     <li><a href="">Java Coding QA</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0jc4jb000102jy12wubasi.md">Selenium With Java</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0n7m9m000002l5diqwdq0y.md">TestNG</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0o5ppv000502kz2udj9qdn.md">Maven</a></li>
+     <li><a href="">jenkins</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ee8cd000002lcc8a9d26w.md">Xpath</a></li>
+     <li><a href="">DOM, BOM, AJAX</a></li>
+     <li><a href="">SQL</a></li>
+     <li><a href="">API with postman</a></li>
+     <li><a href="">Restassured</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0cso2r000002l5ad4m00ez.md">API Status Code</a></li>
-      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg4hm72z000e02ju9z1hdb15.md">Web Automation Framework Guide</a></li>
-    
-   
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg4hm72z000e02ju9z1hdb15.md">Web Automation Framework Guide</a></li>
+     <li><a href="">Most Asked Interview QA </a></li>
 <!--  
-  <li><a href="">SQL</a></li>
-   
    <li><a href="">Appium</a></li>
-  
-   <li><a href="">API</a></li>
-   <li><a href="">Restassured</a></li>
-  
-   <li><a href="">jenkins</a></li>
-   <li><a href="./01_QA_NOTES/javaCoding.md">Java Coding QA</a></li>
-  
- 
-   <li><a href="">DOM, BOM, AJAX</a></li>
-   <li><a href="">Most Asked Interview QA </a></li>
     <li><a href="./01_QA_NOTES/summery.md">All Notes in summery</a></li>  
     -->
-   
 </ul>
 
 
