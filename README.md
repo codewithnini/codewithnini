@@ -40,6 +40,7 @@ Here are some ideas to get you started:
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0o5ppv000502kz2udj9qdn.md">Maven</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ee8cd000002lcc8a9d26w.md">Xpath</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0cso2r000002l5ad4m00ez.md">API Status Code</a></li>
+      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg4hm72z000e02ju9z1hdb15.md">Web Automation Framework Guide</a></li>
     
    
 <!--  
