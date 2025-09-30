@@ -29,6 +29,17 @@ Here are some ideas to get you started:
 -->
 
 ---
+
+<h3 align="left">🎭 Notes & Resources For Playwright with TypeScript</h3>
+<h4 align="left">✨ Modern End-to-End Testing Framework for Web Automation</h4>
+<ul>
+ <li><a href="">TypeScript</a></li>
+ <li><a href="">Playwright </a></li>
+ <li><a href="">Most Asked Interview QA </a></li>
+</ul>
+
+---
+
 <h3 align="left">📒 Notes & Resources For QA Automatation</h3>
 <ul>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg55dsf4000h02i8fuxtado0.md">Basics Before Learning Automation Testing</a></li>
@@ -56,6 +67,10 @@ Here are some ideas to get you started:
     -->
 </ul>
 
+<h3 align="left">📒 Notes & Resources For QA Automatation</h3>
+<ul>
+ <li><a href="">Most Asked Interview QA </a></li>
+</ul>
 
 ## ✨ Fun Facts
 - ☕ Coffee-fueled debugging sessions  
