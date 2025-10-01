@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <h3 align="left">🎭 Notes & Resources For Playwright with TypeScript</h3>
 <h4 align="left">✨ Modern End-to-End Testing Framework for Web Automation</h4>
 <ul>
- <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg6lpzu4000002js25bka678.md">TypeScript</a> &nbsp; Visit the &nbsp;<a href="https://codewithnini.hashnode.dev/typescript">TypeScript Blog Link</a></li>
+ <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg6lpzu4000002js25bka678.md">TypeScript</a> &nbsp; Visit the &nbsp;<a href="https://codewithnini.hashnode.dev/typescript">TypeScript Blog Link</a>&nbsp; Visit the &nbsp;<a href="https://github.com/codewithnini/TypeScript">Github Repo</a></li>
+ 
  <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg6lx5ds000002l216df1ig2.md">Playwright With TypeScript</a></li>
  <li><a href="">Most Asked Interview QA </a></li>
 </ul>
