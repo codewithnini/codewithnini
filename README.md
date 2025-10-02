@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <ul>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg55dsf4000h02i8fuxtado0.md">Basics Before Learning Automation Testing</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg0ib0qs000c02l8afvvfti9.md">git and github</a></li>
-     <li><a href="">Manaul</a></li>    
-     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Agile with jira</a></li>
+     <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfz37nf3000002l5a1w7gw8v.md">Manaul</a></li>    
+     <li><a href="">Agile with jira</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmfznn29b000102jy9mhqb9f5.md">Java</a></li>
      <li><a href="https://github.com/codewithnini/hashnodeBlogs/blob/main/cmg4n3xlm000102l7hthihfvx.md">Java Complex Topic</a></li>
      <li><a href="">Java Coding QA</a></li>
